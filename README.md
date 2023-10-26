@@ -1,6 +1,6 @@
 # Car Controller Area Network (CAN) Security
 
-![CAN Bus](link_to_your_can_bus_image.jpg)
+![CAN Bus](CANBUS_image.jpg)
 
 This repository addresses the challenges associated with securing the Controller Area Network (CAN) communication in modern automobiles. As vehicles become more integrated and connected, ensuring the integrity and safety of data transmitted over the CAN bus is crucial.
 
